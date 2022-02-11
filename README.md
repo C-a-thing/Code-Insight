@@ -5,7 +5,7 @@ some description
 
 | Sl No      | Name |
 | ----------- | ----------- |
-| 1      | Leetcode   |
+| 1      | [Leetcode](/Leetcode/leetcodeQuestions.md)   |
 | 2      | CodeChef   |
 | 3      | HackerRank |
 | 4      | CodeForces |
