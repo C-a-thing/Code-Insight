@@ -1,7 +1,10 @@
 # Leetcode Questions
 
-## Array
-| Sl No | Title    | Platform    | Language    |     | Time | Space  | Difficulty  |     | Approach    | 
-| -- | ----------- | ----------- | ----------- | --- | ---- | -----  | ----------- | --- | ----------- |
-| 1  | Title       |
-| 2  | Text        |
+| Qu no | Title       |  Language   | Tags |      | Time   | Space  | Difficulty  |     | Approach    | 
+| --    | ----------- | ----------- | ---  | ---- | -----  |  ---   | ----------- | --- | ----------- |
+| 1     | -----       | ----------- | [Array](/Arrays/Arrays_README.md) |
+| 2     | ----        |
+
+
+
+
