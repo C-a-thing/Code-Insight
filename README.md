@@ -11,9 +11,9 @@ Code Insight
 | ----------- | ----------- |
 | 1      | [Leetcode](/Leetcode/leetcodeQuestions.md)   |
 | 2      | [CodeChef ](/CodeChef/codechefQuestions.md)  |
-| 3      | [HackerRank] (/HackerRank/hackerrankQuestions.md)|
+| 3      | [HackerRank](/HackerRank/hackerrankQuestions.md)|
 | 4      | [CodeForces](/CodeForces/codeforcesQuestions.md) |
-| 5      | [GFG ]   (/GFG/GFGQuestions.md)    | 
+| 5      | [GFG ](/GFG/GFGQuestions.md)    | 
 
 
 # Topics
