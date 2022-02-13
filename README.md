@@ -22,7 +22,7 @@ Code Insight
 | 1      | [Array](/Leetcode/Arrays/Arrays_README.md)   |
 | 2      | String   |
 | 3      | Matrix |
-| 4      |  Sorting (/CodeForces/ Sorting/ Sorting_README.md)|
+| 4      | [Sorting](/CodeForces/ Sorting/ Sorting_README.md)|
 | 5      | Linked List        |
 | 6      | Searching |
 
