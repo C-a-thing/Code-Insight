@@ -12,7 +12,7 @@ Code Insight
 | 1      | [Leetcode](/Leetcode/leetcodeQuestions.md)   |
 | 2      | CodeChef   |
 | 3      | HackerRank |
-| 4      | CodeForces |
+| 4      | [CodeForces](/CodeForces/codeforcesQuestions.md) |
 | 5      | GFG        | 
 
 
