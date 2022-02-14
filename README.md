@@ -25,4 +25,11 @@ Code Insight
 | 4      | [Sorting](/CodeForces/Sorting/Sorting_README.md)|
 | 5      | Linked List        |
 | 6      | Searching |
+| 7      | Maths |
+| 8      | Greedy |
+| 9      | Backtracking |
+| 10      | Stacks and Queues |
+| 11      | Heap |
+| 12      | Graph |
+
 
