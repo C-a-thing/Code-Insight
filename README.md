@@ -26,10 +26,13 @@ Code Insight
 | 5      | Linked List        |
 | 6      | Searching |
 | 7      | Maths |
-| 8      | Greedy |
+| 8      | Bit manipulation |
 | 9      | Backtracking |
-| 10      | Stacks and Queues |
-| 11      | Heap |
-| 12      | Graph |
+| 10      | Greedy |
+| 11      | Stacks and Queues |
+| 12      | Heap |
+| 13      | Graph |
+| 14      | DP |
+
 
 
