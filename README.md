@@ -33,6 +33,7 @@ Code Insight
 | 12      | Heap |
 | 13      | Graph |
 | 14      | DP |
+| 15      | Misc |
 
 
 
