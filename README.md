@@ -7,7 +7,7 @@ Code Insight
 
 # Platforms
 
-| Sl No      | Name |
+| **Sl No**      | **Name** |
 | ----------- | ----------- |
 | 1      | [Leetcode](/Leetcode/leetcodeQuestions.md)   |
 | 2      | [CodeChef ](/CodeChef/codechefQuestions.md)  |
@@ -17,9 +17,9 @@ Code Insight
 
 
 # Topics
-| Sl No      | Name |
+| **Sl No**      | **Name** |
 | ----------- | ----------- |
-| 1      | [Array](/Leetcode/Arrays/Arrays_README.md,/CodeChef/codechefQuestions.md)   |
+| 1      | [Array](/Leetcode/Arrays/Arrays_README.md)   |
 | 2      | String   |
 | 3      | Matrix |
 | 4      | [Sorting](/CodeForces/Sorting/Sorting_README.md)|
