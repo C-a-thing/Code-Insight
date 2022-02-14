@@ -32,7 +32,7 @@ Code Insight
 | 11      | Stacks and Queues |
 | 12      | Heap |
 | 13      | Graph |
-| 14      | DP |
+| 14      | Dynamic Programming |
 | 15      | Misc |
 
 
