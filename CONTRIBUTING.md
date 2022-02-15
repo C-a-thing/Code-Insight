@@ -61,5 +61,14 @@ Congrats !!! You have successfully set up the repo locally 🎉
    > git push origin < Your Branch Name >
    > 
    >  ![image](https://user-images.githubusercontent.com/69809086/154015457-f2e3d2db-9c9a-4cdc-81f6-71cb7cb466fd.png)
+   
+ 5. Create a PR
+    > (with a relavant message)
+    > 
+    > ![image](https://user-images.githubusercontent.com/69809086/154078591-97afc9f7-0261-44eb-ac2f-9f296d09a9fd.png)
+   
+  🚀 Your code has reached the Destination. 🙌🏼
+
+
 
 
