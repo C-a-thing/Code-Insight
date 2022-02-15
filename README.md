@@ -9,7 +9,7 @@ Code Insight
 
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
-| 1      | [LeetCode](/LeetCode/leetcodeQuestions.md)   |
+| 1      | [LeetCode](/Leetcode/leetcodeQuestions.md)   |
 | 2      | [CodeChef ](/CodeChef/codechefQuestions.md)  |
 | 3      | [HackerRank](/HackerRank/hackerrankQuestions.md)|
 | 4      | [CodeForces](/CodeForces/codeforcesQuestions.md) |
