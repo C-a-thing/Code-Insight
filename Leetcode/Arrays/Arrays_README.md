@@ -2,4 +2,4 @@
 
 | Sl No | Qu title | Platform                            | Soln Lang |   | Time comp | Space comp | difficulty |    | approach |
 | --     | ---     |   ------                            | ---       |-- | ---       | ---        | ----       | -- | ---------|
-| 1    | ---       | [Leetcode](../leetcodeQuestions.md) | ---       |   | ---       | ---        | ----       |    | ---------|
+| 1    | ---       | [LeetCode](/LeetCode/leetcodeQuestions.md) | ---       |   | ---       | ---        | ----       |    | ---------|
