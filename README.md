@@ -19,7 +19,7 @@ Code Insight
 # Topics
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
-| 1      | [Array](/Leetcode/Arrays/Arrays_README.md)   |
+| 1      | [Array](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Array.md)   |
 | 2      | String   |
 | 3      | Matrix |
 | 4      | [Sorting](/CodeForces/Sorting/Sorting_README.md)|
