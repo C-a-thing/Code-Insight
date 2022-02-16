@@ -20,11 +20,11 @@ Code Insight
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
 | 1      | [Array](/Leetcode/Arrays/Arrays_README.md)   |
-| 2      | [String](/Leetcode/String/String.md)  |
+| 2      | [String](/CodeForces/String/String_README.md)  |
 | 3      | [Matrix ](/Leetcode/Matrix/Matrix.md)|
 | 4      | [Sorting](/CodeForces/Sorting/Sorting.md)|
-| 5      | Linked List        |
-| 6      | Searching |
+| 5      | [Linked List](/CodeForces/Linked List/Linked List_README.md)|
+| 6      | [Searching](/CodeForces/Searching/Searching_README.md) |
 | 7      | Maths |
 | 8      | Bit manipulation |
 | 9      | Backtracking |
