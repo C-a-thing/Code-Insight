@@ -23,7 +23,7 @@ Code Insight
 | 2      | [String](/CodeForces/String/String_README.md)  |
 | 3      | [Matrix ](/Leetcode/Matrix/Matrix.md)|
 | 4      | [Sorting](/Leetcode/sorting/sorting.md)|
-| 5      | [Linked List](/Leetcode/Linked List/Linked List.md)|
+| 5      | [Linked_List](/Leetcode/Linked List/Linked List.md)|
 | 6      | [Searching](/Leetcode/Searching/Searching.md) |
 | 7      | [Maths](/Leetcode/Maths/Maths.md) |
 | 8      | [Bit manipulation](/Leetcode/Bit manipulation/Bit manipulation.md) |
