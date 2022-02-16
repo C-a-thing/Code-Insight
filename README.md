@@ -28,11 +28,11 @@ Code Insight
 | 7      | [Maths](/Leetcode/Maths/Maths.md) |
 | 8      | [Bit manipulation](/Leetcode/Bit manipulation/Bit manipulation.md) |
 | 9      | [Backtracking](/Leetcode/Backtracking/Backtracking.md) |
-| 10      | Greedy |
-| 11      | Stacks and Queues |
-| 12      | Heap |
-| 13      | Graph |
-| 14      | Dynamic Programming |
+| 10      | [Greedy](/Leetcode/Greedy/Greedy.md) |
+| 11      | [Stacks and Queues](/Leetcode/Stacks and Queues/Stacks and Queues.md) |
+| 12      | [Heap](/Leetcode/Heap/Heap.md) |
+| 13      | [Graph](/Leetcode/Graph/Graph.md) |
+| 14      | [Dynamic Programming](/Leetcode/Dynamic Programming/Dynamic Programming.md) |
 | 15      | Misc |
 
 
