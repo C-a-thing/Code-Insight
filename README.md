@@ -33,7 +33,7 @@ Code Insight
 | 12      | [Heap](/Leetcode/Heap/Heap.md) |
 | 13      | [Graph](/Leetcode/Graph/Graph.md) |
 | 14      | [Dynamic Programming](/Leetcode/Dynamic Programming/Dynamic Programming.md) |
-| 15      | Misc |
+| 15      | [Misc](/Leetcode/Misc/Misc.md) |
 
 
 
