@@ -25,8 +25,8 @@ Code Insight
 | 4      | [Sorting](/Leetcode/sorting/sorting.md)|
 | 5      | [Linked List](/Leetcode/Linked List/Linked List.md)|
 | 6      | [Searching](/Leetcode/Searching/Searching.md) |
-| 7      | Maths |
-| 8      | Bit manipulation |
+| 7      | [Maths](/Leetcode/Maths/Maths.md) |
+| 8      | [Bit manipulation](/Leetcode/Bit manipulation/Bit manipulation.md) |
 | 9      | Backtracking |
 | 10      | Greedy |
 | 11      | Stacks and Queues |
