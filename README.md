@@ -27,7 +27,7 @@ Code Insight
 | 6      | [Searching](/Leetcode/Searching/Searching.md) |
 | 7      | [Maths](/Leetcode/Maths/Maths.md) |
 | 8      | [Bit manipulation](/Leetcode/Bit manipulation/Bit manipulation.md) |
-| 9      | Backtracking |
+| 9      | [Backtracking](/Leetcode/Backtracking/Backtracking.md) |
 | 10      | Greedy |
 | 11      | Stacks and Queues |
 | 12      | Heap |
