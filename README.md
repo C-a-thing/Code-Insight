@@ -20,8 +20,8 @@ Code Insight
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
 | 1      | [Array](/Leetcode/Arrays/Arrays_README.md)   |
-| 2      | String   |
-| 3      | Matrix |
+| 2      | [String] (/Leetcode/String/String_README.md)  |
+| 3      | [Matrix ](/Leetcode/Matrix/Matrix_README.md)|
 | 4      | [Sorting](/CodeForces/Sorting/Sorting_README.md)|
 | 5      | Linked List        |
 | 6      | Searching |
