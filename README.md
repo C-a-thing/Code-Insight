@@ -20,20 +20,20 @@ Code Insight
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
 | 1      | [Array](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Array.md)   |
-| 2      | String   |
-| 3      | Matrix |
-| 4      | [Sorting](/CodeForces/Sorting/Sorting_README.md)|
-| 5      | Linked List        |
-| 6      | Searching |
-| 7      | Maths |
-| 8      | Bit manipulation |
-| 9      | Backtracking |
-| 10      | Greedy |
-| 11      | Stacks and Queues |
-| 12      | Heap |
-| 13      | Graph |
-| 14      | Dynamic Programming |
-| 15      | Misc |
+| 2      | [String](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/String.md)   |
+| 3      | [Matrix](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Matrix.md) |
+| 4      | [Sorting](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Sorting.md)|
+| 5      | [Linked List](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Linked%20List.md)        |
+| 6      | [Searching](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Searching.md) |
+| 7      | [Maths](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Maths.md) |
+| 8      | [Bit manipulation](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Bit%20manipulation.md) |
+| 9      | [Backtracking](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Backtracking.md) |
+| 10      | [Greedy](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Greedy.md) |
+| 11      | [Stacks and Queues](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Stacks%20and%20Queues.md) |
+| 12      | [Heap](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Heap.md) |
+| 13      | [Graph](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Graph.md) |
+| 14      | [Dynamic Programming](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Dynamic%20Programming.md) |
+| 15      | [Misc](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Misc.md) |
 
 
 
