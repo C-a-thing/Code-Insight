@@ -22,9 +22,9 @@ Code Insight
 | 1      | [Array](/Leetcode/Arrays/Arrays_README.md)   |
 | 2      | [String](/CodeForces/String/String_README.md)  |
 | 3      | [Matrix ](/Leetcode/Matrix/Matrix.md)|
-| 4      | [Sorting](/CodeForces/Sorting/Sorting.md)|
-| 5      | [Linked List](/CodeForces/Linked List/Linked List_README.md)|
-| 6      | [Searching](/CodeForces/Searching/Searching_README.md) |
+| 4      | [Sorting](/Leetcode/Sorting/Sorting.md)|
+| 5      | [Linked List](/Leetcode/Linked List/Linked List.md)|
+| 6      | [Searching](/Leetcode/Searching/Searching.md) |
 | 7      | Maths |
 | 8      | Bit manipulation |
 | 9      | Backtracking |
