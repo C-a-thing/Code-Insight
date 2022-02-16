@@ -23,16 +23,16 @@ Code Insight
 | 2      | [String](/CodeForces/String/String_README.md)  |
 | 3      | [Matrix ](/Leetcode/Matrix/Matrix.md)|
 | 4      | [Sorting](/Leetcode/sorting/sorting.md)|
-| 5      | [Linked_List](/Leetcode/Linked List/Linked List.md)|
+| 5      | [LinkedList](/Leetcode/Linked List/Linked List.md)|
 | 6      | [Searching](/Leetcode/Searching/Searching.md) |
 | 7      | [Maths](/Leetcode/Maths/Maths.md) |
-| 8      | [Bit manipulation](/Leetcode/Bit manipulation/Bit manipulation.md) |
+| 8      | [BitManipulation](/Leetcode/Bit manipulation/Bit manipulation.md) |
 | 9      | [Backtracking](/Leetcode/Backtracking/Backtracking.md) |
 | 10      | [Greedy](/Leetcode/Greedy/Greedy.md) |
 | 11      | [Stacks and Queues](/Leetcode/Stacks and Queues/Stacks and Queues.md) |
 | 12      | [Heap](/Leetcode/Heap/Heap.md) |
 | 13      | [Graph](/Leetcode/Graph/Graph.md) |
-| 14      | [Dynamic Programming](/Leetcode/Dynamic Programming/Dynamic Programming.md) |
+| 14      | [DynamicProgramming](/Leetcode/Dynamic Programming/Dynamic Programming.md) |
 | 15      | [Misc](/Leetcode/Misc/Misc.md) |
 
 
