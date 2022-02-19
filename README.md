@@ -1,4 +1,4 @@
-# Code-Insight
+<!-- # Code-Insight
 Code Insight
 
 # Table of Content
@@ -9,7 +9,7 @@ Code Insight
 
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
-| 1      | [Leetcode](/Leetcode/leetcodeQuestions.md)   |
+| 1      | [LeetCode](/Leetcode/leetcodeQuestions.md)   |
 | 2      | [CodeChef ](/CodeChef/codechefQuestions.md)  |
 | 3      | [HackerRank](https://github.com/Rikhldr0267/Code-Insight/blob/main/HackerRank/hackerrankQuestions.md)|
 | 4      | [CodeForces](/CodeForces/codeforcesQuestions.md) |
@@ -37,3 +37,8 @@ Code Insight
 
 
 
+
+ 
+ 
+ 
+ 
