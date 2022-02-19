@@ -5,7 +5,4 @@
 | 2     | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true)      | [Playing With Characters](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/C/Introduction/Playing%20With%20Characters.c) | Introduction ||O(1)|O(1)|easy|| just use **_printf_** and **_scanf_** statements |
 | 3     | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true)      | [Sum and Difference of Two Numbers](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/C/Introduction/Sum%20and%20Difference%20of%20Two%20Numbers.c) | Introduction ||O(1)|O(1)|easy|| just use **_printf_** , **_scanf_** and **_arithmatic Operations_** statements |
 | 4     | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true)      | [Functions in C](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/C/Introduction/Functions%20in%20C.c) | Introduction ||O(1)|O(1)|easy|| just use **_printf_** , **_scanf_**  statements and **_writing functions_** |
- 
- 
- 
- | 4     | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true)      | [Functions in C](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/C/Introduction/Functions%20in%20C.c) | Introduction ||O(1)|O(1)|easy|| just use **_printf_** , **_scanf_**  statements and **_writing functions_** |
+| 5     | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true)      | [Pointers in C](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/C/Introduction/Pointers%20in%20C.c) | Introduction ||O(1)|O(1)|easy||  **_inter-changing pointers from one to another variable_**  |
