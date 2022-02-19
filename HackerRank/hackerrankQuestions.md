@@ -1,5 +1,5 @@
 # HackerRank Questions
-C++
+[C++](/HackerRank/C++)
 | Qu no | Title       |  Language   | Tags |      | Time   | Space  | Difficulty  |     | Approach    | 
 | --    | ----------- | ----------- | ---  | ---- | -----  |  ---   | ----------- | --- | ----------- |
 | 1     | -----       | ----------- | [Array](./Arrays/Arrays_README.md) |
