@@ -1,6 +1,6 @@
 # HackerRank Questions
-[C++](/HackerRank/C++)
-| Qu no | Title       |  Language   | Tags |      | Time   | Space  | Difficulty  |     | Approach    | 
+**C++**
+| Qu no | Title       |  Solution   | Tags |      | Time   | Space  | Difficulty  |     | Approach    | 
 | --    | ----------- | ----------- | ---  | ---- | -----  |  ---   | ----------- | --- | ----------- |
 | 1     | -----       | ----------- | [Array](./Arrays/Arrays_README.md) |
 | 2     | ----        |
