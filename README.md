@@ -19,7 +19,7 @@ Code Insight
 # Topics
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
-| 1      | [Array](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Array.md)   |
+| 1      | [Array](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Array.md)   |
 | 2      | [String](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/String.md)   |
 | 3      | [Matrix](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Matrix.md) |
 | 4      | [Sorting](https://github.com/Rikhldr0267/Code-Insight/blob/main/Topic/Sorting.md)|
