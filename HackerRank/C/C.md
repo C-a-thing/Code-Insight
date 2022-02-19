@@ -1,4 +1,4 @@
 
 | Qu no | Title       |  Solution   | Tags |      | Time   | Space  | Difficulty  |     | Approach    | 
 | --    | ----------- | ----------- | ---  | ---- | -----  |  ---   | ----------- | --- | ----------- |
-| 1     | -----       | ----------- | [Array](./Arrays/Arrays_README.md) ||O(n)|O(1)|easy|| - |
+| 1     | Hello World      | [Hello World](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/C/Introduction/Hello%20World.c) | Introduction ||O(1)|O(1)|easy|| just use **_printf_** statement |
