@@ -1,4 +1,4 @@
-| Qu no | Title       |  Solution   | Topics |      | Time   | Space  | Difficulty  |     | Approach    | 
+| Qu no | Title       |  Solution   | Subdomains |      | Time   | Space  | Difficulty  |     | Approach    | 
 | --    | ----------- | ----------- | ---  | ---- | -----  |  ---   | ----------- | --- | ----------- |
 | 1   | [Say Hello, World! With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true) |[Say Hello, World! With C++](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/C%2B%2B/Introduction/Say%20Hello%2C%20World!%20With%20C%2B%2B.cpp)   |Introduction |    |  O(1)  |  O(1)  | Easy |   |printing to stdout |
 | 2   | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true) |[Input and Output](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/C%2B%2B/Introduction/Input%20and%20Output.cpp)   |Introduction |    |  O(1)  |  O(1)  | Easy |   |<li>User input from stdin</li><li>Arithmetic operators</li> |
