@@ -1,8 +1,9 @@
 
 | Qu no | Title       |  Solution   | Subdomains |      | Time   | Space  | Difficulty  |     | Approach    | 
-| --    | ----------- | ----------- | ---  | ---- | -----  |  ---   | ----------- | --- | ----------- |
+| --    | ----------- | ----------- | ---        | ---- | -----  |  ---   | ----------- | --- | ----------- |
 | 1     | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true)      | [Welcome to Java](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/Introduction/Welcome%20to%20Java!.java) | Introduction ||O(1)|O(1)|Easy||  |
 | 2     | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true) | [Java Stdin and Stdout I](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/Introduction/Java%20Stdin%20and%20Stdout%20I.java) | Introduction | | O(1) | O(1) | Easy| |  |
 | 3     | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true)  | [If-Else](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/Introduction/If-Else.java) | Introduction |  | O(1) | O(1) | Easy |  |   |
 | 4     | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true) | [Java Stdin and Stdout II](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/Introduction/Java%20Stdin%20and%20Stdout%20II.java) | Introduction |   |  O(1) |  O(1) |  Easy|  |
 | 5     | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | [Java Output Formatting](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/Introduction/Java%20Output%20Formatting.java) | Introduction |    |  O(n)  |  O(1)  | Easy |  |
+| 6     | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true) | [Java Loops I](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/Introduction/Java%20Loops%20I.java) | Introduction |   | O(n) | O(1) | Easy |   |   |
