@@ -5,11 +5,11 @@ Code Insight
 - [Plaformwise Questions](/README.md/#Platforms)
 - [Topicwise Questions](/README.md/#Topics)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-Insight&show_icons=true&locale=en&layout=compact" alt="Code-Insight" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-Insight&show_icons=true&locale=en&layout=compact" alt="Code-Insight" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-Insight&show_icons=true&locale=en" alt="Code-Insight" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Insight&" alt="Code-Insight" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Insight&" alt="Code-Insight" /></p> -->
 
 # Platforms
 
