@@ -1,4 +1,4 @@
-# Leetcode Questions
+# LeetCode Questions
 
 | Qu no | Title       |  Language   | Tags |      | Time   | Space  | Difficulty  |     | Approach    | 
 | --    | ----------- | ----------- | ---  | ---- | -----  |  ---   | ----------- | --- | ----------- |
