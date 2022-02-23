@@ -3,3 +3,7 @@
 | Sl No | Qu title | Platform                            | Soln Lang |   | Time comp | Space comp | Difficulty |    | Approach |
 | --     | ---     |   ------                            | ---       |-- | ---       | ---        | ----       | -- | ---------|
 | 1    | [Largest Element in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1/?category[]=Arrays&category[]=Arrays&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arraysdifficulty[]-1difficulty[]0page1category[]Arrays#)     | [GFG ](/GFG/GFGQuestions.md) | [Java](https://github.com/Rikhldr0267/Code-Insight/blob/main/GFG/Array/Java/Largest%20Element%20in%20Array.java)       |   | O(n)       | O(n)        | Basic       |    | |
+| 2    | [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1/?page=1&status[]=solved&category[]=Arrays&sortBy=submissions)     | [GFG ](/GFG/GFGQuestions.md) | [C++](https://github.com/C-a-thing/Code-Insight/blob/main/GFG/Array/C%2B%2B/Subarray%20with%20given%20sum.cpp)       |   | O(n)       | O(1)        | Easy       |    |<ol><li>keep adding numbers untill we get the number or any bigger number</li> <li>if any greater number found , keep substructing lowest indexes one by one untill sum<=desired num</li><li>If sum<desired num then add elements in subarray by again traversing the given array from next index of which we stopped for point-2</li></ol> |
+
+
+
