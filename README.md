@@ -4,6 +4,7 @@ Code Insight
 # Table of Content
 - [Plaformwise Questions](/README.md/#Platforms)
 - [Topicwise Questions](/README.md/#Topics)
+- [Contribution Guidlines](/CONTRIBUTING.md)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-Insight&show_icons=true&locale=en&layout=compact" alt="Code-Insight" /></p>
 
