@@ -1,7 +1,6 @@
 # Code-Insight
-Code Insight
 
-# Table of Content
+## Table of Content
 - [Plaformwise Questions](/README.md/#Platforms)
 - [Topicwise Questions](/README.md/#Topics)
 - [Contribution Guidlines](/CONTRIBUTING.md)
@@ -11,8 +10,9 @@ Code Insight
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-Insight&show_icons=true&locale=en" alt="Code-Insight" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Insight&" alt="Code-Insight" /></p> -->
+<br />
 
-# Platforms
+### Platforms
 
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
@@ -23,7 +23,7 @@ Code Insight
 | 5      | [GFG ](/GFG/GFGQuestions.md)    | 
 
 
-# Topics
+### Topics
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
 | 1      | [Array](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Array.md)   |
