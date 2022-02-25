@@ -1,7 +1,7 @@
 # `CODE-INSIGHT 👩‍💻👨‍💻`
 
 <p align="center">
-    <img src=https://images8.alphacoders.com/115/thumb-350-1156488.png/>
+    <img src=https://wallpaperbat.com/img/250091-coding-minimalist-wallpaper.jpg/>
  </p>
 
 <br />
