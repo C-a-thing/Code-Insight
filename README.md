@@ -9,6 +9,10 @@
 ![Hello programmers Welcome ](https://img.shields.io/badge/Hello,Programmers!-Welcome-purple.svg)&nbsp;
 [![Github Stars](https://img.shields.io/github/stars/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/stargazers)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/C-a-thing/Code-Insight/blob/main/LICENSE)&nbsp;
+<br>
+## Languages Used
+|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/C/C.md)|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/C%2B%2B/C%2B%2B.md)|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/JAVA.md)|[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/PYTHON/Python.md)|
+|---|---|---|---|
 
 ## Table of Content
 - [Plaformwise Questions](/README.md/#Platforms)
