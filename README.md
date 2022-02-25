@@ -9,11 +9,11 @@
 
 ![Hello programmers Welcome ](https://img.shields.io/badge/Hello,&nbsp;Programmers!-Welcome-purple.svg)&emsp;
 [![Github Stars](https://img.shields.io/github/stars/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/stargazers)&emsp;
-[![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/C-a-thing/Code-Insight/blob/main/LICENSE)&emsp;
+[![License](https://img.shields.io/badge/License-MIT-orange.svg)](https://github.com/C-a-thing/Code-Insight/blob/main/LICENSE)&emsp;
 [![GitHub Forks](https://img.shields.io/github/forks/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/network/members)&emsp;
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=C-a-thing.Code.Insight)](https://github.com/C-a-thing/Code-Insight/graphs/traffic)&emsp;
-[![GitHub Contributors](https://img.shields.io/github/contributors/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/graphs/contributors)
-
+[![Visitors](https://Visitor-badge.laobi.icu/badge?page_id=C-a-thing.Code.Insight)](https://github.com/C-a-thing/Code-Insight/graphs/traffic)&emsp;
+[![GitHub Contributors](https://img.shields.io/github/contributors/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/graphs/contributors)&emsp;
+[![Commit](https://img.shields.io/badge/Commit&nbsp;Activity-orange.svg)](https://github.com/C-a-thing/Code-Insight/graphs/commit-activity)&emsp;
 </br>
 
 
