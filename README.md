@@ -1,5 +1,7 @@
 # <p align="center">`CODE-INSIGHT 👩‍💻👨‍💻`</p>
 
+<p align="center"> <strong>This is a Coding Repository, containing all Data Structure Algorithms from different platforms, i.e., LeetCode, CodeChef, CodeForces, HackerRank, Geeks for Geeks and some Miscellaneous Stuffs. The Programming languages used are Java, Python, C/C++. </strong></p> <br /> <br />
+
 <p align="center">
     <img width="800" height="300" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png"/>
  </p>
