@@ -10,7 +10,8 @@
 [![Github Stars](https://img.shields.io/github/stars/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/stargazers)&emsp;
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/C-a-thing/Code-Insight/blob/main/LICENSE)&emsp;
 [![GitHub Forks](https://img.shields.io/github/forks/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/network/members)&emsp;
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=C-a-thing.Code.Insight)](https://github.com/C-a-thing/Code-Insight/graphs/traffic)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=C-a-thing.Code.Insight)](https://github.com/C-a-thing/Code-Insight/graphs/traffic)&emsp;
+[![GitHub Forks](https://img.shields.io/github/contributors/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/graphs/contributors)
 <br>
 ## Languages Used
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>|
