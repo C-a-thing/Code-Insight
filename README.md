@@ -4,7 +4,7 @@
 
 <p align="center">
     <img width="800" height="300" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png"/>
- </p>
+ </p> </br>
 
 ![Hello programmers Welcome ](https://img.shields.io/badge/Hello,Programmers!-Welcome-purple.svg)&nbsp;
 [![Github Stars](https://img.shields.io/github/stars/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/stargazers)&nbsp;
