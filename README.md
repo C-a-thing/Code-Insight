@@ -6,7 +6,7 @@
     <img width="800" height="300" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png"/>
  </p> </br>
 
-![Hello programmers Welcome ](https://img.shields.io/badge/Hello,Programmers!-Welcome-purple.svg)&nbsp;
+![Hello programmers Welcome ](https://img.shields.io/badge/Hello,&nbsp;Programmers!-Welcome-purple.svg)&nbsp;
 [![Github Stars](https://img.shields.io/github/stars/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/stargazers)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/C-a-thing/Code-Insight/blob/main/LICENSE)&nbsp;
 [![GitHub Forks](https://img.shields.io/github/forks/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/network/members)
