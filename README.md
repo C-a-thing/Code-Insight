@@ -4,7 +4,6 @@
     <img width="800" height="400" src="https://wallpaperbat.com/img/250091-coding-minimalist-wallpaper.jpg"/>
  </p>
 
-<br />
 
 ## Table of Content
 - [Plaformwise Questions](/README.md/#Platforms)
