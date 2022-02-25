@@ -1,9 +1,12 @@
 # <p align="center">`CODE-INSIGHT 👩‍💻👨‍💻`</p>
 
 <p align="center">
-    <img width="800" height="400" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png"/>
+    <img width="800" height="300" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png"/>
  </p>
 
+![Hello programmers Welcome ](https://img.shields.io/badge/Hello,Programmers!-Welcome-purple.svg)&nbsp;
+[![Github Stars](https://img.shields.io/github/stars/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/stargazers)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/C-a-thing/Code-Insight/blob/main/LICENSE)&nbsp;
 
 ## Table of Content
 - [Plaformwise Questions](/README.md/#Platforms)
