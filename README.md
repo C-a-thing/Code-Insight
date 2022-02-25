@@ -1,7 +1,7 @@
 # <p align="center">`          CODE-INSIGHT 👩‍💻👨‍💻`</p>
 
 <p align="center">
-    <img width="800" height="400" src="https://wallpaperaccess.com/full/7167569.png"/>
+    <img width="800" height="400" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png"/>
  </p>
 
 
