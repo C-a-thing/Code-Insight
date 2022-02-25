@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Insight&" alt="Code-Insight" /></p> -->
 <br />
 
-### Platforms
+## Platforms
 
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
@@ -38,7 +38,7 @@
 | 5      | [GFG ](/GFG/GFGQuestions.md)    | 
 
 
-### Topics
+## Topics
 | **Sl No**      | **Name** |
 | ----------- | ----------- |
 | 1      | [Array](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Array.md)   |
