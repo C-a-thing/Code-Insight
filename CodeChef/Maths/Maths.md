@@ -1,4 +1,4 @@
-# Maths
+#CodeChef Maths Question
 
 | Sl No | Qu title | Platform                            | Soln Lang |   | Time comp | Space comp | difficulty |    | approach |
 | --     | ---     |   ------                            | ---       |-- | ---       | ---        | ----       | -- | ---------|
