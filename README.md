@@ -8,7 +8,7 @@
 
 ![Hello programmers Welcome ](https://img.shields.io/badge/Hello,&nbsp;Programmers!-Welcome-purple.svg)&emsp;
 [![Github Stars](https://img.shields.io/github/stars/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/stargazers)&emsp;
-[![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/C-a-thing/Code-Insight/blob/main/LICENSE)&emsp;
+[![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/C-a-thing/Code-Insight/blob/main/LICENSE)&emsp;
 [![GitHub Forks](https://img.shields.io/github/forks/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/network/members)&emsp;
 <br>
 ## Languages Used
