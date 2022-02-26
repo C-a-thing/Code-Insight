@@ -15,4 +15,4 @@
 | 12    | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true) | [Java Currency Formatter](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/Introduction/Currency%20Formatter.java) | **Introduction** |   |   |  | Easy |  | Using NumberFormat (NumberFormat is the abstract base class for all number formats. This class provides the interface for formatting and parsing numbers. NumberFormat also provides methods for determining which locales have number formats, and what their names are.)  | 
 |       |     |       |       |     |    |    |     |     |     |
 |       |     |       |       |     |    |    |     |     |     |
-| 1    |     |        | **Strings** |      |      |     |      |
+| 1    | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true)  | [Java Strings Introduction](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/String/String%20Introduction.java)  | **Strings** |      | O(1)  | O(1) | Easy  |  |   |
