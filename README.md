@@ -3,12 +3,12 @@
 ![👋 Hello programmers Welcome ](https://img.shields.io/badge/Hello,&nbsp;Programmers!-Welcome-purple.svg)&emsp;
 [![Visitors](https://Visitor-badge.laobi.icu/badge?page_id=C-a-thing.Code.Insight)](https://github.com/C-a-thing/Code-Insight/graphs/traffic)&emsp;
 [![GitHub Contributors](https://img.shields.io/github/contributors/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/graphs/contributors)&emsp;
-
 [![Github Stars](https://img.shields.io/github/stars/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/stargazers)&emsp;
 [![GitHub Forks](https://img.shields.io/github/forks/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/network/members)&emsp;
-<!-- [![Commit](https://img.shields.io/badge/Commit&nbsp;Activity-darkorange.svg)](https://github.com/C-a-thing/Code-Insight/graphs/commit-activity)&emsp; -->
 ![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-darkgreen.svg)&emsp;
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/C-a-thing/Code-Insight/blob/main/LICENSE)&emsp;
+<!-- [![Commit](https://img.shields.io/badge/Commit&nbsp;Activity-darkorange.svg)](https://github.com/C-a-thing/Code-Insight/graphs/commit-activity)&emsp; -->
+
 </br>
 
 <p align="center"> <strong>This is a Coding Repository, containing all Data Structure Algorithms from different platforms, i.e., LeetCode, CodeChef, CodeForces, HackerRank, Geeks for Geeks and some Miscellaneous Stuffs. </br> The Programming languages used are Java, Python, C/C++. </strong></p> <br /> 
