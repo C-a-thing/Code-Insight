@@ -17,3 +17,4 @@
 |       |     |       |       |     |    |    |     |     |     |
 | 1     | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true)  | [Java Strings Introduction](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/String/String%20Introduction.java)  | **Strings** |      | O(1)  | O(1) | Easy  |  |   |
 | 2     | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem?isFullScreen=true) | [Java Substring](https://github.com/C-a-thing/Code-Insight/blob/main/HackerRank/JAVA/String/Substring.java) | **Strings** |   | O(1) | O(1) | Easy|  | Print the substring in the inclusive range from start to end-1 |
+| 3     | [Java Substring Comparisons]() | [Java Substring Comparisons]() | **Strings** |  |  |   |   |  |  Finds the lexicographically smallest and largest substrings of length k|
