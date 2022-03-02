@@ -1,6 +1,6 @@
 # <p align="center">`CODE-INSIGHT 👩‍💻👨‍💻`</p>
 
-&emsp;&emsp;![👋 Hello programmers Welcome ](https://img.shields.io/badge/Hello,&nbsp;Programmers!-Welcome-purple.svg)&emsp;
+<p align="center"> &emsp;&emsp;![👋 Hello programmers Welcome ](https://img.shields.io/badge/Hello,&nbsp;Programmers!-Welcome-purple.svg)&emsp;</p>
 
 <!-- [![Commit](https://img.shields.io/badge/Commit&nbsp;Activity-darkorange.svg)](https://github.com/C-a-thing/Code-Insight/graphs/commit-activity)&emsp; -->
 
