@@ -8,10 +8,16 @@
 
 <p align="center"> <strong>This is a Coding Repository, containing all Data Structure Algorithms from different platforms, i.e., LeetCode, CodeChef, CodeForces, HackerRank, Geeks for Geeks and some Miscellaneous Stuffs. </br> The Programming languages used are Java, Python, C/C++. </strong></p> <br /> 
 
-<p align="center">
+<!-- <p align="center">
     <img width="800" height="300" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png"/>
  </p> </br>
+  -->
  
+ <p align="center">
+    <img width="800" height="300" src="https://user-images.githubusercontent.com/75484346/156610548-d470887d-e766-4a65-8521-871649e43c14.jpg"/>
+ </p> </br>
+
+
  &emsp;&emsp;[![Visitors](https://Visitor-badge.laobi.icu/badge?page_id=C-a-thing.Code.Insight)](https://github.com/C-a-thing/Code-Insight/graphs/traffic)&emsp;
 [![GitHub Contributors](https://img.shields.io/github/contributors/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/graphs/contributors)&emsp;
 [![Github Stars](https://img.shields.io/github/stars/C-a-thing/Code-Insight?style=social)](https://github.com/C-a-thing/Code-Insight/stargazers)&emsp;
