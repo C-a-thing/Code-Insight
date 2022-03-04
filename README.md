@@ -14,7 +14,7 @@
   -->
  
  <p align="center">
-    <img width="800" height="300" src="https://user-images.githubusercontent.com/75484346/156610548-d470887d-e766-4a65-8521-871649e43c14.jpg"/>
+    <img width="600" height="400" src="https://user-images.githubusercontent.com/75484346/156610548-d470887d-e766-4a65-8521-871649e43c14.jpg"/>
  </p> </br>
 
 
