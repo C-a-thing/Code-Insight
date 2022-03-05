@@ -2,7 +2,7 @@
 
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;![👋 Hello programmers Welcome ](https://img.shields.io/badge/Hello,&nbsp;Programmers!-Welcome-purple.svg)&emsp;
 
-<!-- [![Commit](https://img.shields.io/badge/Commit&nbsp;Activity-darkorange.svg)](https://github.com/C-a-thing/Code-Insight/graphs/commit-activity)&emsp; -->
+
 
 </br>
 
