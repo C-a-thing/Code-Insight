@@ -43,6 +43,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Insight&" alt="Code-Insight" /></p> -->
 <br />
 
+<B>Questions so far</B>  - <I>55</I>
+
 ## Platforms
 
 | **Sl No**      | **Name** |
