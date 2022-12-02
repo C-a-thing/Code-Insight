@@ -73,7 +73,8 @@
 | 12      | [Heap](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Heap.md) |
 | 13      | [Graph](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Graph.md) |
 | 14      | [Dynamic Programming](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Dynamic%20Programming.md) |
-| 15      | [Miscellaneous](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Misc.md) |
+| 15      | [Recursion](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Recursion.md) |
+| 16      | [Miscellaneous](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Misc.md) |
 
 
 
