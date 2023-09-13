@@ -1,1 +1,4 @@
 
+| Sl No | Qu title | Platform                            | Soln Lang |   | Time comp | Space comp | difficulty |    | approach |
+| --     | ---     |   ------                            | ---       |-- | ---       | ---        | ----       | -- | ---------|
+| 1    | [Create Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)       | [Leetcode](../leetcodeQuestions.md) | <ul> <li>[C++](https://github.com/C-a-thing/Code-Insight/blob/main/Leetcode/Arrays/C%2B%2B/two%20sum.cpp](https://github.com/C-a-thing/Code-Insight/blob/main/Leetcode/Two%20Pointers/C%2B%2B/Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.cpp))</li>  </ul>       |   | <ul><li>O(n*log(n)</li> </ul>      | O(1)        | Easy       |    | <ol> <li> Two Pointers </li>   </ol> |
