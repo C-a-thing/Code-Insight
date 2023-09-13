@@ -76,6 +76,7 @@
 | 15      | [Recursion](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Recursion.md) |
 | 16      | [Miscellaneous](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Misc.md) |
 | 17      | [Database](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/Database.md) |
+| 18      | [Two Pointers](https://github.com/C-a-thing/Code-Insight/blob/main/Topic/TwoPointers.md) |
 
 
 
